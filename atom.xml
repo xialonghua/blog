@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fightfrog.com/"/>
   <updated>2019-09-10T03:46:44.273Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fightfrog.com/</id>
   
   <author>
     <name>lhxia</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/10/hello-world/"/>
-    <id>http://yoursite.com/2019/09/10/hello-world/</id>
+    <link href="http://fightfrog.com/2019/09/10/hello-world/"/>
+    <id>http://fightfrog.com/2019/09/10/hello-world/</id>
     <published>2019-09-10T03:46:44.273Z</published>
     <updated>2019-09-10T03:46:44.273Z</updated>
     
